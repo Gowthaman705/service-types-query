@@ -1,0 +1,2 @@
+SELECT Id, Name, Job_Sheet__c,Type_Serviced__c FROM Type_Services__c where Type_Serviced__c ='6L Water Mist' and Qty_Serviced__c = 3
+Query for type of service =103783
